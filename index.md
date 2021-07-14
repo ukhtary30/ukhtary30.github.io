@@ -18,10 +18,12 @@ This page contains my publication list. Below, I give some of my main publicatio
 6. [Spin current generation by edge plasmons in graphene ribbons](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.245428) , **M. S. Ukhtary**, Y. Tian, R. Saito, Phys. Rev. B, 103, 245428, (2021).
 
 
-### Jekyll Themes
+### Cerita Riset
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ukhtary30/msukhtary.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Pada halaman ini, saya bercerita mengenai paper yang telah saya publikasikan. 
 
-### Support or Contact
+### Contact
+Berikut adalah kontak saya:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can contact me using this email:  
+muhamadukhtary(at)gmail(dot)com or msho001(at)lipi.go.id
