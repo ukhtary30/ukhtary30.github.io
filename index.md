@@ -7,6 +7,7 @@ I am Muhammad Shoufie Ukhtary (Passport name), but you can call me Shoufie. I co
 ### Publication list
 
 Halaman ini berisi daftar paper yang sudah saya tulis dan dipublikasi. Berikut beberapa paper utama saya.
+
 This page contains my publication list. Below, I give some of my main publications.
 
 1. [Fermi energy-dependence of electromagnetic wave absorption in graphene](http://dx.doi.org/10.7567/APEX.8.055102), **M. S. Ukhtary**, E. H. Hasdeo, A. R. T. Nugraha, R. Saito, Appl. Phys. Express 8, 055102 (2015).
