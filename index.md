@@ -6,7 +6,7 @@ I am Muhammad Shoufie Ukhtary (Passport name), but you can call me Shoufie. I co
 
 ### Publication list
 
-Halaman ini: [Publication list](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.245428) berisi daftar paper yang sudah saya tulis dan dipublikasi. Berikut beberapa paper utama saya.
+Halaman ini: [Publication list](https://ukhtary30.github.io/msukhtary-pages/publication.md) berisi daftar paper yang sudah saya tulis dan dipublikasi. Berikut beberapa paper utama saya.
 
 This page contains my publication list. Below, I give some of my main publications.
 
