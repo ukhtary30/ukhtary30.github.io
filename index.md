@@ -4,29 +4,14 @@ Saya Muhammad Shoufie Ukhtary. Saya berasal dari kota Malang, Indonesia. Saya ad
 
 I am Muhammad Shoufie Ukhtary (Passport name), but you can call me Shoufie. I come from Malang, East Java, Indonesia. I am a physicist focusing in theoretical condensed matter physics. I work as researcher at the Research Center of Physics (LIPI). My research interests are mainly on optical properties of novel materials, such as two-dimensional materials, dielectric metamaterials, and topological materials. In the past, I finished my undergraduate study at Brawijaya University in Indonesia and I got my Phd at Tohoku University, Japan.
 
-### Markdown
+### Publication list
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Halaman ini berisi daftar paper yang sudah saya tulis dan dipublikasi. Berikut beberapa paper utama saya.
+This page contains my publication list. Below, I give some of my main publications.
 
-```markdown
-Syntax highlighted code block
+1. [Fermi energy-dependence of electromagnetic wave absorption in graphene](http://dx.doi.org/10.7567/APEX.8.055102), **M. S. Ukhtary**, E. H. Hasdeo, A. R. T. Nugraha, R. Saito, Appl. Phys. Express 8, 055102 (2015).
+2. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
