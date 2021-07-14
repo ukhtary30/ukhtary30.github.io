@@ -10,7 +10,11 @@ Halaman ini berisi daftar paper yang sudah saya tulis dan dipublikasi. Berikut b
 This page contains my publication list. Below, I give some of my main publications.
 
 1. [Fermi energy-dependence of electromagnetic wave absorption in graphene](http://dx.doi.org/10.7567/APEX.8.055102), **M. S. Ukhtary**, E. H. Hasdeo, A. R. T. Nugraha, R. Saito, Appl. Phys. Express 8, 055102 (2015).
-2. 
+2. [Hidden symmetries in N-layer dielectric stacks](https://doi.org/10.1088/1361-648X/aa865c), H. Liu, **M. S. Ukhtary**, R. Saito, J. Phys. Condens. Matter , 29, 455303 (2017).
+3. [Significant enhancement of light absorption in undoped graphene using dielectric multilayer system](http://aip.scitation.org/doi/abs/10.1063/1.5012604) , S. A. Nulli, **M. S. Ukhtary**, R. Saito, Appl. Phys. Lett. 112, 073101 (2018).
+4. [Planar rotation of electric field induced by edge-plasmon in a graphene nanoribbon](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.155432) , **M. S. Ukhtary**, M. Maruoka, R. Saito, Phys. Rev. B, 100, 155432-1-10, (2019).
+5. [Surface plasmon in graphene and carbon nanotubes](https://www.sciencedirect.com/science/article/pii/S0008622320304607?via%3Dihub) , **M. S. Ukhtary** and R. Saito, Carbon, 167, 455-474, (2020).
+6. [Spin current generation by edge plasmons in graphene ribbons](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.245428) , **M. S. Ukhtary**, Y. Tian, R. Saito, Phys. Rev. B, 103, 245428, (2021).
 
 
 ### Jekyll Themes
