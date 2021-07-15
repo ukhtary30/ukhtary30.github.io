@@ -4,7 +4,7 @@ Saya Muhammad Shoufie Ukhtary. Saya berasal dari kota Malang, Indonesia. Saya ad
 
 I am Muhammad Shoufie Ukhtary (Passport name), but you can call me Shoufie. I come from Malang, East Java, Indonesia. I am a physicist focusing in theoretical condensed matter physics. I work as researcher at the Research Center of Physics (LIPI). My research interests are mainly on optical properties of novel materials, such as two-dimensional materials, dielectric metamaterials, and topological materials. In the past, I finished my undergraduate study at Brawijaya University in Indonesia and I got my Phd at Tohoku University, Japan.
 
-### Publication list
+### [Publication list](https://ukhtary30.github.io/msukhtary-pages/publication.html) 
 
 Halaman ini: [Publication list](https://ukhtary30.github.io/msukhtary-pages/publication.html) berisi daftar paper yang sudah saya tulis dan dipublikasi. Berikut beberapa paper utama saya.
 
