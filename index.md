@@ -18,7 +18,7 @@ This page contains my publication list. Below, I give some of my main publicatio
 6. [Spin current generation by edge plasmons in graphene ribbons](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.245428) , **M. S. Ukhtary**, Y. Tian, R. Saito, Phys. Rev. B, 103, 245428 (2021).
 
 
-### Cerita Riset
+### [Cerita Riset](https://ukhtary30.github.io/msukhtary-pages/cerita.html)
 
 Pada halaman ini, saya bercerita mengenai paper yang telah saya publikasikan. 
 
