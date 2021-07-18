@@ -13,3 +13,4 @@ Bila cahaya menjalar melalui dua media dengan indeks bias yang berbeda, cahaya a
 
 Untuk mendapatkan besarnya intensitas cahaya yang dipantulkan dan ditransmisikan, kita dapat menggunakan kondisi batas dari gelombang elektomagnetik. Kondisi batas dapat diturunkan dari persamaan Maxwell. Semisal kita fokus pada komponen medan listrik dan magnet yang sejajar dengan permukaan batas antara kedua media, maka kondisi batas untuk medan listrik (E) dan magnet (H) adalah,
 
+![1-2](1-2.png)
