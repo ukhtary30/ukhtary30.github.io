@@ -19,3 +19,22 @@ Bagaimana cara kita membuat tanda gap energi yang berlawanan? Salah satu cara ad
 
 EP dimodelkan sebagai gelombang yang menjalar pada sisi graphene. Semisal sisi berada pada koordinat x = 0, maka potensial listrik ϕ  dan rapat elektron δρ dari EP dapat dimodelkan sebagai berikut,
 
+![1-2-2](1-2-2.PNG)
+
+Di mana fungsi delta Dirac pada δρ menunjukkan bahwa elektron berada di permukaan graphene. Besarnya amplitudo potensial dapat diperoleh dengan menyelesaikan persamaan Poisson sebagai berikut,
+
+![3](3-2.PNG)
+
+Dengan mensubstitusikan persamaan (1) dan (2) ke (3) dan melakukan penyederhanaan, maka kita mendapatkan persamaan berikut,
+
+![4](4-2.PNG)
+
+Di mana kita fokus pada potensial listrik EP pada permukaan graphene z = 0. Dengan menggunaka persmaan kontinuitas muatan dan juga persmaan kondisi batas untuk potensial listrik (di mana turunan dari potensial listrik menjadi tidak kontinu karena adanya rapat elektron pada sisi graphene), maka kita akan memperoleh ekspresi dari potensial listrik [persamaan (5)] dan juga persamaan untuk menyelesaikan dispersi dari EP [persamaan (7)], sebagai berikut
+
+EP dimodelkan sebagai gelombang yang menjalar pada sisi graphene. Semisal sisi berada pada koordinat x = 0, maka potensial listrik ϕ  dan rapat elektron δρ dari EP dapat dimodelkan sebagai berikut,
+
+![5-7](5-7-2.PNG)
+
+Di mana ω ̃  adalah frekuensi dari EP,  ω_b^2=2πD(T)q, D(T) is faktor Drude yang bergantung suhu  dan γ_tr laju hamburan dari elektron. Kita bisa lihat dari persamaan (29) bahwa potensial listrik dari EP terlokalisasi di dekat sisi yang merupakan karakteristik dari EP.  Dengan menuliskan ω ̃=ω-i/τ_p dan menyelesaikan persamaan (31), maka frekuensi ω  dan juga waktu hidup τ_p dari EP dapat diperoleh.  Berikut adalah grafik dari dispersi dan juga waktu hidup dari EP untuk beberapa suhu.  Grafik (a) menunjukkan frekuensi dari EP (garis solid) sebagai fungsi wavevector (q) untuk suhu 50 K (biru) dan 300 K (merah). Bisa kita lihat, bahwa frekuensi EP linear terhadap wavevector dan juga meningkat seiring meningkatnya suhu. Grafik (b) menunjukkan waktu hidup dari EP sebagai fungsi wavevector dan suhu. Seiring dengan bertambahnya suhu, waktu hidup EP semakin berkurang, karena adanya eksitasi termal dari elektron. Meskipun demikian, EP memiliki waktu hidup yang Panjang dibandingkan dengan plasmon permukaan  konvensional pada suhu ruang (300 K). Waktu hidup EP sekitar 3 ps, melebihi waktu hidup plasmon permukaan di graphene (0.5 ps). Inset pada grafik (c) juga menunjukkan bahwa semakin besar frekuensi EP (label pada tiap garis), waktu hidup EP juga semakin meningkat. Grafik (c) sendiri menunjukkan bahwa waktu hidup EP untuk ℏω=60 meV menurun seiring meningkatnya suhu dan mencapai 3 ps pada suhu ruang. Panjangnya waktu hidup EP dikarenakan rapat elektron yang hanya terdapat pada edge states saja (karena  energi Fermi berada dalam gap energi), sehingga EP tidak dapat meluruh menjadi plasmon permukaan graphene. Peluruhan EP baru muncul saat meningkatnya suhu, karena adanya eksitasi termal yang menyebabkan rapat elektron tidak hanya ada pada edge states saja. Selain panjangnya waktu hidup EP, medan listrik EP lebih terlokalisasi pada permukaan (dam juga batas antara dua region) dibandingkan plasmon permukaan konvensional. Hal ini disebabkan karena panjang gelombang (dan juga kecepatan) EP yang jauh lebih kecil dibandingkan cahaya. Sebagai contoh, panjang gelombang EP sebesar 290 nm untuk ℏω=60 meV, sedangkan panjang gelombang cahaya dengan frekuensi yang sama adalah 20 μm.
+
+![lf](lf.png)
