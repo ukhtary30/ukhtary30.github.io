@@ -27,8 +27,25 @@ Bagaimana dengan arus J pada persamaan (2)? Bila kita meletakan sebuah material 
 
 ![J](J.PNG)
 
-Di mana σ=e^2/4ℏ adalah konduktivitas dari graphene. Perlu dicatat bahwa dalam kasus ini, kita mengambil graphene yang tidak didoping. Dengan menggunakan persamaan (1) – (4), maka kita mendapatkan persamaan berikut,
+Di mana σ=e<sup>2</sup>/4ℏ adalah konduktivitas dari graphene. Perlu dicatat bahwa dalam kasus ini, kita mengambil graphene yang tidak didoping. Dengan menggunakan persamaan (1) – (4), maka kita mendapatkan persamaan berikut,
 
 ![5](5.PNG)
 
 Dan kita memperoleh persamaan medan listrik yang dipantulkan sebagai berikut,
+![6-7](6-7.PNG)
+
+Koefisien pantul (R) , transmisi (T) dan serapan (A) cahaya dapat ditulis sebagai berikut,
+![9-10](9-10.PNG)
+
+Semisal kita anggap graphene berada di ruang vakum, maka dari persamaan (4), Z<sub>1</sub>=Z<sub>2</sub>=377 Ohm. Besarnya serapan cahaya oleh graphene yang berada di ruang vakum adalah sebesar,
+![11](11.PNG)
+
+Dari persamaan di atas, kita peroleh bahwa graphene menyerap 2.3 % intensitas cahaya yang datang. Untuk material yang sangat tipis, serapan cahaya oleh graphene relatif besar. Tetapi, apakah kita masih bisa meningkatkan besar serapan cahaya ini? Sebelum menjawab pertanyaan tersebut, mari kita bahas penyebab fisis dari serapan cahaya yaitu Joule’s heat. Secara matematis, Joule’s heat  adalah perkalian antara arus dan medan listrik yang ada di permukaan graphene. Joule’s heat (P) dapat dituliskan sebagai berikut,
+![12](12.PNG)
+
+Bila kita membagi P dengan intensitas cahaya datang seperti di bawah ini,
+![13](13.PNG)
+
+Maka kita mendapatkan kembali koefisien serapan cahaya A seperti di persamaan (13). Maka terbukti, bahwa serapan cahaya adalah panas yang muncul di permukaan graphene. Dari penyebab fisis serapan cahaya, maka jika kita ingin meningkatkan serapan cahaya oleh graphene, kita harus meningkatkan besarnya medan listrik yang ada di permukaan graphene. Ada beberapa cara untuk meningkatkan medan listrik pada permukaan graphene, seperti mendoping graphene atau juga dengan memanfaatkan interferensi cahaya yang dapat menguatkan medan listrik cahaya. Kita akan membahas lebih lanjut metode kedua, yaitu dengan interferensi untuk meningkatkan serapan cahaya oleh graphene.
+___
+
