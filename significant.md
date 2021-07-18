@@ -49,3 +49,40 @@ Bila kita membagi P dengan intensitas cahaya datang seperti di bawah ini,
 Maka kita mendapatkan kembali koefisien serapan cahaya A seperti di persamaan (13). Maka terbukti, bahwa serapan cahaya adalah panas yang muncul di permukaan graphene. Dari penyebab fisis serapan cahaya, maka jika kita ingin meningkatkan serapan cahaya oleh graphene, kita harus meningkatkan besarnya medan listrik yang ada di permukaan graphene. Ada beberapa cara untuk meningkatkan medan listrik pada permukaan graphene, seperti mendoping graphene atau juga dengan memanfaatkan interferensi cahaya yang dapat menguatkan medan listrik cahaya. Kita akan membahas lebih lanjut metode kedua, yaitu dengan interferensi untuk meningkatkan serapan cahaya oleh graphene.
 ___
 
+#### Meningkatkan serapan cahaya oleh graphene dengan interferensi.
+
+Seperti yang sudah kita simpulkan pada bagian sebelumnya, bahwa serapan cahaya oleh graphene sebanding dengan besarnya medan listrik yang ada dipermukaan graphene. Maka bila graphene ditempatkan di dalam suatu struktur, di mana cahaya dapat berinteferensi, maka serapan cahaya dapat ditingkatkan. Sebagai contoh struktur tersebut adalah struktur di bawah ini.
+![graphene](mirror.png)
+
+Pada struktur ini, graphene (G) berada di tengah struktur multilayer dari medium A dan B dengan indeks bias n<sub>A</sub> dan n<sub>B</sub>. Susunan medium A dan B dibalik setelah cahaya melewati graphene, seperti pada gambar. Karena struktur terdiri atas banyak lapisan medium, maka saat cahaya masuk, cahaya akan dipantulkan berkali-kali di dalam struktur sebelum ditransmisikan keluar struktur, yang menyebabkan medan listrik cahaya diperkuat di dalam struktur. Sehingga serapan cahaya juga dapat diperkuat.
+
+Bagaimana cara kita memodelkan penjalaran cahaya di dalam struktur multilayer tersebut? Model paling sederhana adalah dengan menggunakan metode transfer matriks. Untuk memahami metode transfer matriks, maka mari kita lihat gambar di bawah ini.
+![graphene2](mirror2.png)
+
+Gambar di atas menunjukkan penjalaran cahaya di dalam struktur multilayer. Pada saat cahaya masuk, yaitu pada z = 0, total medan listrik dan magnet kontinu, karena tidak ada graphene (arus J = 0), maka kita peroleh persamaan berikut,
+![14](14.PNG)
+
+![15](15.PNG)
+
+Dengan menggunakan definisi impedans dari persamaan (4), maka kita bisa menuliskan persamaan (14) and (15) dalam bentuk matriks sebagai berikut,
+
+![16](16.PNG)
+
+Setelah memasuki medium 1, cahaya menjalar dalam medium tersebut sejauh l_1, yaitu ketebalan medium 1. Hubungan antara medan listrik di z = 0 dan z = l_1 diberikan oleh persamaan matriks berikut,
+![17](17.PNG)
+
+Sehingga, proses penjalaran cahaya sepanjang medium satu dapat dituliskan dalam perkalian matriks M_0 dan P_1, sebagai berikut
+
+![18](18.PNG)
+
+Matriks M_i dan  P_i dinamakan sebagai matriks matching dan propagasi untuk medium i. Maka jika kita memiliki banyak lapisan medium, penjalaran cahaya dalam struktur tersebut dapat dituliskan sebagai perkalian matriks matching dan propagasi. Sebagai catatan, bila ada graphene di antara dua medium B (seperti pada gambar struktur), maka arus J tidak sama dengan nol, sehingga matriks matching dengan graphene diberikan sebagai berikut,
+
+![19](19.PNG)
+
+Sebagai contoh, semisal kita memiliki suatu struktur ABGBA, maka penjalaran cahaya dapat dimodelkan sebagai berikut,
+
+![20](20.PNG)
+
+Hasil perkalian semua matriks M_i dan  P_i inilah yang dinamakan transfer matriks. Hanya dengan mengambil komponen dari transfer matriks, kita dapat menentukan besarnya koefisien pantul (R), transmisi (T) dan serapan (A) dari cahaya, sebagai berikut,
+
+![21](21.PNG)
