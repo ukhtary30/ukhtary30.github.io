@@ -68,10 +68,10 @@ Dengan menggunakan definisi impedans dari persamaan (4), maka kita bisa menulisk
 
 ![16](16.PNG)
 
-Setelah memasuki medium 1, cahaya menjalar dalam medium tersebut sejauh l_1, yaitu ketebalan medium 1. Hubungan antara medan listrik di z = 0 dan z = l_1 diberikan oleh persamaan matriks berikut,
+Setelah memasuki medium 1, cahaya menjalar dalam medium tersebut sejauh l_1, yaitu ketebalan medium 1. Hubungan antara medan listrik di z = 0 dan z = ℓ<sub>1</sub> diberikan oleh persamaan matriks berikut,
 ![17](17.PNG)
 
-Sehingga, proses penjalaran cahaya sepanjang medium satu dapat dituliskan dalam perkalian matriks M_0 dan P_1, sebagai berikut
+Sehingga, proses penjalaran cahaya sepanjang medium satu dapat dituliskan dalam perkalian matriks M<sub>0</sub> dan P<sub>1</sub>, sebagai berikut
 
 ![18](18.PNG)
 
@@ -83,6 +83,6 @@ Sebagai contoh, semisal kita memiliki suatu struktur ABGBA, maka penjalaran caha
 
 ![20](20.PNG)
 
-Hasil perkalian semua matriks M_i dan  P_i inilah yang dinamakan transfer matriks. Hanya dengan mengambil komponen dari transfer matriks, kita dapat menentukan besarnya koefisien pantul (R), transmisi (T) dan serapan (A) dari cahaya, sebagai berikut,
+Hasil perkalian semua matriks M<sub>i</sub> dan  P<sub>i</sub> inilah yang dinamakan transfer matriks. Hanya dengan mengambil komponen dari transfer matriks, kita dapat menentukan besarnya koefisien pantul (R), transmisi (T) dan serapan (A) dari cahaya, sebagai berikut,
 
 ![21](21.PNG)
