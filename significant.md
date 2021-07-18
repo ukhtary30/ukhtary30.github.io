@@ -68,14 +68,14 @@ Dengan menggunakan definisi impedans dari persamaan (4), maka kita bisa menulisk
 
 ![16](16.PNG)
 
-Setelah memasuki medium 1, cahaya menjalar dalam medium tersebut sejauh l_1, yaitu ketebalan medium 1. Hubungan antara medan listrik di z = 0 dan z = ℓ<sub>1</sub> diberikan oleh persamaan matriks berikut,
+Setelah memasuki medium 1, cahaya menjalar dalam medium tersebut sejauh ℓ<sub>1</sub>, yaitu ketebalan medium 1. Hubungan antara medan listrik di z = 0 dan z = ℓ<sub>1</sub> diberikan oleh persamaan matriks berikut,
 ![17](17.PNG)
 
 Sehingga, proses penjalaran cahaya sepanjang medium satu dapat dituliskan dalam perkalian matriks M<sub>0</sub> dan P<sub>1</sub>, sebagai berikut
 
 ![18](18.PNG)
 
-Matriks M_i dan  P_i dinamakan sebagai matriks matching dan propagasi untuk medium i. Maka jika kita memiliki banyak lapisan medium, penjalaran cahaya dalam struktur tersebut dapat dituliskan sebagai perkalian matriks matching dan propagasi. Sebagai catatan, bila ada graphene di antara dua medium B (seperti pada gambar struktur), maka arus J tidak sama dengan nol, sehingga matriks matching dengan graphene diberikan sebagai berikut,
+Matriks M<sub>i</sub> dan  P<sub>i</sub> dinamakan sebagai matriks matching dan propagasi untuk medium i. Maka jika kita memiliki banyak lapisan medium, penjalaran cahaya dalam struktur tersebut dapat dituliskan sebagai perkalian matriks matching dan propagasi. Sebagai catatan, bila ada graphene di antara dua medium B (seperti pada gambar struktur), maka arus J tidak sama dengan nol, sehingga matriks matching dengan graphene diberikan sebagai berikut,
 
 ![19](19.PNG)
 
@@ -86,3 +86,13 @@ Sebagai contoh, semisal kita memiliki suatu struktur ABGBA, maka penjalaran caha
 Hasil perkalian semua matriks M<sub>i</sub> dan  P<sub>i</sub> inilah yang dinamakan transfer matriks. Hanya dengan mengambil komponen dari transfer matriks, kita dapat menentukan besarnya koefisien pantul (R), transmisi (T) dan serapan (A) dari cahaya, sebagai berikut,
 
 ![21](21.PNG)
+___
+
+#### Serapan cahaya oleh graphene mencapai 50%.
+Setelah melakukan perhitungan dengan menggunakan metode transfer matriks, maka kita memperoleh besarnya koefisien serapan dan juga medan listrik pada permukaan graphene. Ekspresi analitik dari koefisien serapan (A) dan medan listrik pada permukaan graphene E<sup>(c)</sup>  adalah sebagai berikut,
+
+![22-23](22-23.PNG)
+
+Di mana α=n<sub>A</sub>/n<sub>B</sub> dan s adalah jumlah repetisi struktur AB sebelum posisi graphene. Dari persamaan (23) Nampak bahwa besarnya koefisien serapan sebanding dengan penguatan medan listrik pada permukaan graphene, yang menunjukkan bahwa penyebab serapan cahaya adalah Joule’s heat (persamaan (12)). Apakah medan listrik benar dikuatkan oleh struktur ini? Mari kita lihat grafik dari penguatan medan listrik |E<sup>(c)</sup>/(E_+^((0) ) )| dan juga A sebagai fungsi α untuk beberapa repetisi s di bawah ini,
+
+![abs-e](abs-e.png)
