@@ -8,7 +8,7 @@ Paper ini bercerita mengenai metode peningkatan serapan cahaya oleh graphene yan
 
 ![graphene](mirror.png)
 
-#### 2. [Long-Lived Domain Wall Plasmons in Gapped Bilayer Graphene](https://ukhtary30.github.io/msukhtary-pages/significant.html) 
+#### 2. [Long-Lived Domain Wall Plasmons in Gapped Bilayer Graphene](https://ukhtary30.github.io/msukhtary-pages/dws.html) 
 
 Paper ini adalah paper yang ditulis oleh kolega saya, Dr. Eddwi Heski Hasdeo, mengenai plasmon yange terlokalisasi pada sisi dari material dua dimensi. Plasmon ini disebut sebagai edge plasmon (EP). Dalam studi ini, penulis membahas EP yang berada pada batas antara dua region yang memiliki tanda dari gap energi yang berlawanan. Batas ini disebut sebagai domain wall states. Berdasarkan hasil perhitungan, EP pada domain wall states memiliki waktu hidup (lifetime) yang panjang.
 
