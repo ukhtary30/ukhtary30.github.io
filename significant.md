@@ -7,6 +7,7 @@ Pada halaman ini, saya bercerita mengenai paper yang telah saya publikasikan.
 Paper ini bercerita mengenai metode peningkatan serapan cahaya oleh graphene yang tidak didoping. Graphene biasanya hanya dapat menyerap 2.3% dari intensitas cahaya datang. tetapi, dengan meletakan graphene di dalam suatu struktur khusus dan memanfaatkan fenomena interferensi dari medan listrik, serapan cahaya dapat meningkat menjadi 50%.
 
 ![graphene](mirror.png)
+
 ___
 #### Pemantulan, transmisi dan serapan cahaya oleh graphene
 Bila cahaya menjalar melalui dua media dengan indeks bias yang berbeda, cahaya akan dipantulkan dan ditransmisikan. Besarnya intensitas cahaya yang dipantulkan dan ditransmisikan bergantung pada perbedaan nilai indeks bias kedua media tersebut dan juga sudut datang cahaya. Untuk memenuhi kekekalan energi, maka total intensitas cahaya yang dipantulkan dan ditransmisikan akan sama dengan intensitas cahaya datang. Tetapi, apabila medium kedua adalah logam yang indeks biasnya kompleks, maka cahaya datang akan juga diserap oleh medium kedua, sehingga  total intensitas cahaya yang dipantulkan dan ditransmisikan akan kurang dari satu. Energi cahaya yang diserap oleh material akan berubah menjadi energi panas yang dikenal dengan nama Joule’s heat. Serapan cahaya ini dapat dimanfaatkan dalam proses pemanasan suatu sampel, pembuatan photodetector, sel surya, maupun antena. 
@@ -93,7 +94,7 @@ Setelah melakukan perhitungan dengan menggunakan metode transfer matriks, maka k
 
 ![22-23](22-23.PNG)
 
-Di mana α=n<sub>A</sub>/n<sub>B</sub> dan s adalah jumlah repetisi struktur AB sebelum posisi graphene. Dari persamaan (23) Nampak bahwa besarnya koefisien serapan sebanding dengan penguatan medan listrik pada permukaan graphene, yang menunjukkan bahwa penyebab serapan cahaya adalah Joule’s heat (persamaan (12)). Apakah medan listrik benar dikuatkan oleh struktur ini? Mari kita lihat grafik dari penguatan medan listrik |E<sup>(c)</sup>/E<sup>(0)</sup><sub>+</sub> )| dan juga A sebagai fungsi α untuk beberapa repetisi s di bawah ini,
+Di mana α=n<sub>A</sub>/n<sub>B</sub> dan s adalah jumlah repetisi struktur AB sebelum posisi graphene. Dari persamaan (23) Nampak bahwa besarnya koefisien serapan sebanding dengan penguatan medan listrik pada permukaan graphene, yang menunjukkan bahwa penyebab serapan cahaya adalah Joule’s heat (persamaan (12)). Apakah medan listrik benar dikuatkan oleh struktur ini? Mari kita lihat grafik dari penguatan medan listrik E<sup>(c)</sup>/E<sup>(0)</sup><sub>+</sub> ) dan juga A sebagai fungsi α untuk beberapa repetisi s di bawah ini,
 
 ![abs-e](abs-e.png)
 
