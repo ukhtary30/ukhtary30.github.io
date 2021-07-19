@@ -1,7 +1,7 @@
 
 #### 2. [Long-Lived Domain Wall Plasmons in Gapped Bilayer Graphene](https://pubs.acs.org/doi/10.1021/acs.nanolett.7b02584) 
 
-Paper ini adalah paper yang ditulis oleh kolega saya, Dr. Eddwi Heski Hasdeo, mengenai plasmon yange terlokalisasi pada sisi dari material dua dimensi. Plasmon ini disebut sebagai edge plasmon (EP). Dalam studi ini, penulis membahas EP yang berada pada batas antara dua region yang memiliki tanda dari gap energi yang berlawanan. Batas ini disebut sebagai domain wall states. Berdasarkan hasil perhitungan, EP pada domain wall states memiliki waktu hidup (lifetime) yang panjang.
+Paper ini adalah paper yang ditulis oleh kolega saya, Dr. Eddwi Heski Hasdeo, mengenai plasmon yange terlokalisasi pada sisi dari material dua dimensi. Plasmon ini disebut sebagai edge plasmon (EP). Dalam studi ini, penulis membahas EP yang berada pada batas antara dua region yang memiliki tanda dari gap energi yang berlawanan. Batas ini disebut sebagai domain wall states. Berdasarkan hasil perhitungan, EP pada domain wall states memiliki waktu hidup (lifetime) yang panjang dibandingkan dengan plasmon permukaan (surface plasmon) konvensional.
 
 ![dws](dws.png)
 
