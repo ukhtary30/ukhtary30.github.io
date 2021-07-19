@@ -1,6 +1,6 @@
 ### Cerita Riset
 
-Pada halaman ini, saya bercerita mengenai paper yang telah saya publikasikan atau paper lain yang menarik. 
+Pada halaman ini, saya bercerita mengenai paper yang telah saya publikasikan atau paper lain yang menarik. Silahkan tekan link pada judul paper di bawah.
 
 #### 1. [Significant enhancement of light absorption in undoped graphene using dielectric multilayer system](https://ukhtary30.github.io/msukhtary-pages/significant.html) 
 
