@@ -29,7 +29,7 @@ Dengan mensubstitusikan persamaan (1) dan (2) ke (3) dan melakukan penyederhanaa
 
 ![4](4-2.PNG)
 
-Di mana kita fokus pada potensial listrik EP pada permukaan graphene z = 0. Dengan menggunaka persmaan kontinuitas muatan dan juga persmaan kondisi batas untuk potensial listrik (di mana turunan dari potensial listrik menjadi tidak kontinu karena adanya rapat elektron pada sisi graphene), maka kita akan memperoleh ekspresi dari potensial listrik [persamaan (5)] dan juga persamaan untuk menyelesaikan dispersi dari EP [persamaan (7)], sebagai berikut
+Di mana kita fokus pada potensial listrik EP pada permukaan graphene z = 0. Dengan menggunakan persamaan kontinuitas muatan dan juga persamaan kondisi batas untuk potensial listrik (di mana potensial listrik kontinu pada sisi dan turunan dari potensial listrik menjadi tidak kontinu karena adanya rapat elektron pada sisi), maka kita akan memperoleh ekspresi dari potensial listrik [persamaan (5)] dan juga persamaan untuk menyelesaikan dispersi dari EP [persamaan (7)], sebagai berikut
 
 EP dimodelkan sebagai gelombang yang menjalar pada sisi graphene. Semisal sisi berada pada koordinat x = 0, maka potensial listrik ϕ  dan rapat elektron δρ dari EP dapat dimodelkan sebagai berikut,
 
