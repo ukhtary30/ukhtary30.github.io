@@ -103,11 +103,11 @@ Di mana α=n<sub>A</sub>/n<sub>B</sub> dan s adalah jumlah repetisi struktur AB 
 
 Kita dapat melihat bahwa medan listrik pada permukaan graphene dapat dikuatkan hingga 4.5 kali lebih besar daripada medan listrik cahaya yang datang. Maksimum dari penguatan medan listrik tidak berubah meskipun jumlah repetisi s berubah, hanya saja posisi maksimumnya berada pada nilai α yang berbeda-beda. Besar koefisien serapan juga mengikuti besarnya penguatan medan listrik, di mana kita dapati serapan maksimum saat penguatan medan listrik juga maksimum. Maksimum dari serapan cahaya adalah 50%! Jauh lebih besar daripada serapan cahaya oleh graphene dalam ruang vakum, yaitu 2.3%. 
 
-Seperti yang telah dijelaskan sebelumnya, nilai  α yang memberikan maksimum dari penguatan medan listrik dan koefisien serapan (α_max) bergantung pada jumlah repetisi s. Di bawah, kami berikan grafik α<sub>max</sub> sebagai fungsi repetisi s.
+Seperti yang telah dijelaskan sebelumnya, nilai  α yang memberikan maksimum dari penguatan medan listrik dan koefisien serapan (α<sub>max</sub>) bergantung pada jumlah repetisi s. Di bawah, kami berikan grafik α<sub>max</sub> sebagai fungsi repetisi s.
 
 ![amax](amax.png)
 
-Kita bisa lihat bahwa α_max berbanding terbalik dengan repetisi s. Jadi, kita tidak perlu banyak repetisi untuk mendapatkan serapan 50%, tetapi kita nilai α yang dibutuhkan haruslah besar, sebagai contoh untuk s = 2, nilai  n<sub>A</sub>=3 n<sub>B</sub> . Apabila nilai α yang tersedia tidak bisa besar, maka untuk memperoleh serapan 50%, kita butuh lebih banyak repetisi. Sebagai catatan tambahan, nilai koefisien pantul dan transmisi masing-masing adalah 25% saat nilai serapan 50%. Salah satu aplikasi dari struktur ini adalah sebagai alat pemanas suatu sampel yang diletakan pada posisi graphene, karena 50% dari energi cahaya datang diubah menjadi panas pada permukaan graphene karena proses serapan. 
+Kita bisa lihat bahwa α<sub>max</sub> berbanding terbalik dengan repetisi s. Jadi, kita tidak perlu banyak repetisi untuk mendapatkan serapan 50%, tetapi kita nilai α yang dibutuhkan haruslah besar, sebagai contoh untuk s = 2, nilai  n<sub>A</sub>=3 n<sub>B</sub> . Apabila nilai α yang tersedia tidak bisa besar, maka untuk memperoleh serapan 50%, kita butuh lebih banyak repetisi. Sebagai catatan tambahan, nilai koefisien pantul dan transmisi masing-masing adalah 25% saat nilai serapan 50%. Salah satu aplikasi dari struktur ini adalah sebagai alat pemanas suatu sampel yang diletakan pada posisi graphene, karena 50% dari energi cahaya datang diubah menjadi panas pada permukaan graphene karena proses serapan. 
 
 ---
 
