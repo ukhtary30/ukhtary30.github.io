@@ -89,7 +89,9 @@ Sebagai contoh, semisal kita memiliki suatu struktur ABGBA, maka penjalaran caha
 Hasil perkalian semua matriks M<sub>i</sub> dan  P<sub>i</sub> inilah yang dinamakan transfer matriks. Hanya dengan mengambil komponen dari transfer matriks, kita dapat menentukan besarnya koefisien pantul (R), transmisi (T) dan serapan (A) dari cahaya, sebagai berikut,
 
 ![21](21.PNG)
+
 ---
+
 #### Serapan cahaya oleh graphene mencapai 50%.
 Setelah melakukan perhitungan dengan menggunakan metode transfer matriks, maka kita memperoleh besarnya koefisien serapan dan juga medan listrik pada permukaan graphene. Ekspresi analitik dari koefisien serapan (A) dan medan listrik pada permukaan graphene E<sup>(c)</sup>  adalah sebagai berikut,
 
