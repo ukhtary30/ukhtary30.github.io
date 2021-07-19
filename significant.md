@@ -9,6 +9,7 @@ Paper ini bercerita mengenai metode peningkatan serapan cahaya oleh graphene yan
 ![graphene](mirror.png)
 
 ---
+
 #### Pemantulan, transmisi dan serapan cahaya oleh graphene
 Bila cahaya menjalar melalui dua media dengan indeks bias yang berbeda, cahaya akan dipantulkan dan ditransmisikan. Besarnya intensitas cahaya yang dipantulkan dan ditransmisikan bergantung pada perbedaan nilai indeks bias kedua media tersebut dan juga sudut datang cahaya. Untuk memenuhi kekekalan energi, maka total intensitas cahaya yang dipantulkan dan ditransmisikan akan sama dengan intensitas cahaya datang. Tetapi, apabila medium kedua adalah logam yang indeks biasnya kompleks, maka cahaya datang akan juga diserap oleh medium kedua, sehingga  total intensitas cahaya yang dipantulkan dan ditransmisikan akan kurang dari satu. Energi cahaya yang diserap oleh material akan berubah menjadi energi panas yang dikenal dengan nama Joule’s heat. Serapan cahaya ini dapat dimanfaatkan dalam proses pemanasan suatu sampel, pembuatan photodetector, sel surya, maupun antena. 
 
@@ -50,6 +51,7 @@ Bila kita membagi P dengan intensitas cahaya datang seperti di bawah ini,
 Maka kita mendapatkan kembali koefisien serapan cahaya A seperti di persamaan (13). Maka terbukti, bahwa serapan cahaya adalah panas yang muncul di permukaan graphene. Dari penyebab fisis serapan cahaya, maka jika kita ingin meningkatkan serapan cahaya oleh graphene, kita harus meningkatkan besarnya medan listrik yang ada di permukaan graphene. Ada beberapa cara untuk meningkatkan medan listrik pada permukaan graphene, seperti mendoping graphene atau juga dengan memanfaatkan interferensi cahaya yang dapat menguatkan medan listrik cahaya. Kita akan membahas lebih lanjut metode kedua, yaitu dengan interferensi untuk meningkatkan serapan cahaya oleh graphene.
 
 ---
+
 #### Meningkatkan serapan cahaya oleh graphene dengan interferensi.
 
 Seperti yang sudah kita simpulkan pada bagian sebelumnya, bahwa serapan cahaya oleh graphene sebanding dengan besarnya medan listrik yang ada dipermukaan graphene. Maka bila graphene ditempatkan di dalam suatu struktur, di mana cahaya dapat berinteferensi, maka serapan cahaya dapat ditingkatkan. Sebagai contoh struktur tersebut adalah struktur di bawah ini.
