@@ -8,7 +8,7 @@ Paper ini bercerita mengenai metode peningkatan serapan cahaya oleh graphene yan
 
 ![graphene](mirror.png)
 
-___
+---
 #### Pemantulan, transmisi dan serapan cahaya oleh graphene
 Bila cahaya menjalar melalui dua media dengan indeks bias yang berbeda, cahaya akan dipantulkan dan ditransmisikan. Besarnya intensitas cahaya yang dipantulkan dan ditransmisikan bergantung pada perbedaan nilai indeks bias kedua media tersebut dan juga sudut datang cahaya. Untuk memenuhi kekekalan energi, maka total intensitas cahaya yang dipantulkan dan ditransmisikan akan sama dengan intensitas cahaya datang. Tetapi, apabila medium kedua adalah logam yang indeks biasnya kompleks, maka cahaya datang akan juga diserap oleh medium kedua, sehingga  total intensitas cahaya yang dipantulkan dan ditransmisikan akan kurang dari satu. Energi cahaya yang diserap oleh material akan berubah menjadi energi panas yang dikenal dengan nama Joule’s heat. Serapan cahaya ini dapat dimanfaatkan dalam proses pemanasan suatu sampel, pembuatan photodetector, sel surya, maupun antena. 
 
@@ -48,7 +48,8 @@ Bila kita membagi P dengan intensitas cahaya datang seperti di bawah ini,
 ![13](13.PNG)
 
 Maka kita mendapatkan kembali koefisien serapan cahaya A seperti di persamaan (13). Maka terbukti, bahwa serapan cahaya adalah panas yang muncul di permukaan graphene. Dari penyebab fisis serapan cahaya, maka jika kita ingin meningkatkan serapan cahaya oleh graphene, kita harus meningkatkan besarnya medan listrik yang ada di permukaan graphene. Ada beberapa cara untuk meningkatkan medan listrik pada permukaan graphene, seperti mendoping graphene atau juga dengan memanfaatkan interferensi cahaya yang dapat menguatkan medan listrik cahaya. Kita akan membahas lebih lanjut metode kedua, yaitu dengan interferensi untuk meningkatkan serapan cahaya oleh graphene.
-___
+
+---
 #### Meningkatkan serapan cahaya oleh graphene dengan interferensi.
 
 Seperti yang sudah kita simpulkan pada bagian sebelumnya, bahwa serapan cahaya oleh graphene sebanding dengan besarnya medan listrik yang ada dipermukaan graphene. Maka bila graphene ditempatkan di dalam suatu struktur, di mana cahaya dapat berinteferensi, maka serapan cahaya dapat ditingkatkan. Sebagai contoh struktur tersebut adalah struktur di bawah ini.
@@ -86,7 +87,7 @@ Sebagai contoh, semisal kita memiliki suatu struktur ABGBA, maka penjalaran caha
 Hasil perkalian semua matriks M<sub>i</sub> dan  P<sub>i</sub> inilah yang dinamakan transfer matriks. Hanya dengan mengambil komponen dari transfer matriks, kita dapat menentukan besarnya koefisien pantul (R), transmisi (T) dan serapan (A) dari cahaya, sebagai berikut,
 
 ![21](21.PNG)
-___
+---
 #### Serapan cahaya oleh graphene mencapai 50%.
 Setelah melakukan perhitungan dengan menggunakan metode transfer matriks, maka kita memperoleh besarnya koefisien serapan dan juga medan listrik pada permukaan graphene. Ekspresi analitik dari koefisien serapan (A) dan medan listrik pada permukaan graphene E<sup>(c)</sup>  adalah sebagai berikut,
 
@@ -103,5 +104,6 @@ Seperti yang telah dijelaskan sebelumnya, nilai  α yang memberikan maksimum dar
 ![amax](amax.png)
 
 Kita bisa lihat bahwa α_max berbanding terbalik dengan repetisi s. Jadi, kita tidak perlu banyak repetisi untuk mendapatkan serapan 50%, tetapi kita nilai α yang dibutuhkan haruslah besar, sebagai contoh untuk s = 2, nilai  n<sub>A</sub>=3 n<sub>B</sub> . Apabila nilai α yang tersedia tidak bisa besar, maka untuk memperoleh serapan 50%, kita butuh lebih banyak repetisi. Sebagai catatan tambahan, nilai koefisien pantul dan transmisi masing-masing adalah 25% saat nilai serapan 50%. Salah satu aplikasi dari struktur ini adalah sebagai alat pemanas suatu sampel yang diletakan pada posisi graphene, karena 50% dari energi cahaya datang diubah menjadi panas pada permukaan graphene karena proses serapan. 
-___
+
+---
 
