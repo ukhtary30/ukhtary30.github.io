@@ -20,7 +20,7 @@ This page contains my publication list. Below, I give some of my main publicatio
 
 ### [Cerita Riset](https://ukhtary30.github.io/cerita.html)
 
-Pada halaman ini, saya bercerita mengenai paper yang telah saya publikasikan. 
+Pada Halaman ini: [Cerita Riset](https://ukhtary30.github.io/cerita.html), saya bercerita mengenai paper yang telah saya publikasikan. 
 
 ### Contact
 Berikut adalah kontak saya:
