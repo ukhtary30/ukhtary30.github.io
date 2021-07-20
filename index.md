@@ -4,9 +4,9 @@ Saya Muhammad Shoufie Ukhtary. Saya berasal dari kota Malang, Indonesia. Saya ad
 
 I am Muhammad Shoufie Ukhtary (Passport name), but you can call me Shoufie. I come from Malang, East Java, Indonesia. I am a physicist focusing in theoretical condensed matter physics. I work as researcher at the Research Center of Physics (LIPI). My research interests are mainly on optical properties of novel materials, such as two-dimensional materials, dielectric metamaterials, and topological materials. In the past, I finished my undergraduate study at Brawijaya University in Indonesia and I got my Phd at Tohoku University, Japan.
 
-### [Publication list](https://ukhtary30.github.io/msukhtary-pages/publication.html) 
+### [Publication list](https://ukhtary30.github.io/publication.html) 
 
-Halaman ini: [Publication list](https://ukhtary30.github.io/msukhtary-pages/publication.html) berisi daftar paper yang sudah saya tulis dan dipublikasi. Berikut beberapa paper utama saya.
+Halaman ini: [Publication list](https://ukhtary30.github.io/publication.html) berisi daftar paper yang sudah saya tulis dan dipublikasi. Berikut beberapa paper utama saya.
 
 This page contains my publication list. Below, I give some of my main publications.
 
@@ -18,7 +18,7 @@ This page contains my publication list. Below, I give some of my main publicatio
 6. [Spin current generation by edge plasmons in graphene ribbons](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.245428) , **M. S. Ukhtary**, Y. Tian, R. Saito, Phys. Rev. B, 103, 245428 (2021).
 
 
-### [Cerita Riset](https://ukhtary30.github.io/msukhtary-pages/cerita.html)
+### [Cerita Riset](https://ukhtary30.github.io/cerita.html)
 
 Pada halaman ini, saya bercerita mengenai paper yang telah saya publikasikan. 
 
