@@ -17,3 +17,4 @@ exp(-I*x), cos(x), atan(x), besselj(0,x), sqrt(pi)
 ```  
 Bila kita evaluasi, maka akan memberikan output sebagai berikut.
   
+<img width="524" alt="Screen Shot 2021-07-20 at 15 18 45" src="https://user-images.githubusercontent.com/87349156/126271355-d5bb1d88-334d-449c-a149-d750d1dd383a.png">
