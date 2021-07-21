@@ -11,7 +11,7 @@ x, y, z = symbols("x y z ")
 
 x + z # semisal kita ingin menghitung x + z
 ```
-Baris 1 dan 2 adalah cara memanggil library SymPy, sedangkan baris 3 adalah perintah untuk mendefinisikan variabel dalam perhitungan. Dalam contoh ini, kita menggunakan variable x,y dan z. Semisal kita ingin menghitung $x+z$, maka kita tinggal mengetik seperti baris 5. Berikut, beberapa contoh expresi matematika yang sering dipakai dalam perhitungan.
+Baris 1 dan 2 adalah cara memanggil library SymPy, sedangkan baris 3 adalah perintah untuk mendefinisikan variabel dalam perhitungan. Dalam contoh ini, kita menggunakan variable x,y dan z. Semisal kita ingin menghitung x+z, maka kita tinggal mengetik seperti baris 5. Berikut, beberapa contoh expresi matematika yang sering dipakai dalam perhitungan.
 ```ruby
 exp(-I*x), cos(x), atan(x), besselj(0,x), sqrt(pi) 
 ```  
@@ -42,7 +42,9 @@ Sedangkan baris 2 akan memberi output,
 <img width="530" alt="Screen Shot 2021-07-20 at 15 29 45" src="https://user-images.githubusercontent.com/87349156/126272569-8e199229-a9e3-4e2c-989b-b9193da36028.png">
 
 Selanjutnya, kita akan mencoba bagaimana cara kita melakukan perhitungan simbolik yang lebih kompleks.
+
 ---
+
 ## Limit, Turunan dan Integral
 ### Limit
 
@@ -63,7 +65,9 @@ Input pada SymPy adalah sebagai berikut,
     limit((3+4*x)/(5+6*x),x,oo)
     
 dengan output 2/3. oo adalah input untuk ∞.
+
 ---
+
 ### Turunan
 
 Semisal kita ingin menghitung turunan fungsi sebagai berikut
