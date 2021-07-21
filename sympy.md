@@ -143,7 +143,9 @@ Maka, input pada SymPy adalah,
 yang menghasilkan output sebagai berikut,
 
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/87349156/126421109-15a43dda-41a3-45d8-a8b9-e16293dbc497.png">
+
 ---
+
 ## Ekspansi fungsi, Akar dari fungsi, dan Matriks
 ### Ekspansi fungsi
 
