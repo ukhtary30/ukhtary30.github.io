@@ -221,6 +221,7 @@ Matriks dapat ditulis pada SymPy sebagai berikut,
 
     M = Matrix([[1,2],[3,4]])
     M
+    
 yang memberikan output matriks M sebagai berikut,
 
 <img width="307" alt="Screen Shot 2021-07-21 at 11 40 22" src="https://user-images.githubusercontent.com/87349156/126422160-2d0d4a1b-04e0-4b6e-b581-bf75e81ea480.png">
