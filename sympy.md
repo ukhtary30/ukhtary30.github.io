@@ -133,6 +133,31 @@ yang menghasilkan output sebagai berikut,
 
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/87349156/126421109-15a43dda-41a3-45d8-a8b9-e16293dbc497.png">
 
+## Ekspansi fungsi, Akar dari fungsi, dan Matriks
+### Ekspansi fungsi
+
+Semisal kita ingin mengkespansi suatu fungsi dalam bentuk deret. Ekspansi ini dikenal dengan nama ekspansi Taylor. Sebagai contoh, semisal kita ingin mengekspansi fungsi berikut,
+
+<img width="301" alt="Screen Shot 2021-07-21 at 11 30 08" src="https://user-images.githubusercontent.com/87349156/126421225-bce11f5b-e3a6-4c11-9fed-ac4c95965d20.png">
+
+dekat titik x = a, maka input pada SymPy adalah sebagai berikut,
+
+    f=sin(x)
+    series(f,x,a,3)
+di mana kita melakukan ekspansi sampai tiga deret. Output dari perhitungan ini adalah,
+
+<img width="522" alt="Screen Shot 2021-07-21 at 11 31 49" src="https://user-images.githubusercontent.com/87349156/126421365-bd713608-3fbf-47f7-8870-2b973dac272c.png">
+
+di mana O menyatakan orde error dari perhitungan. Argumen pertama dari series adalah fungsi yang ingin dideretkan, argumen kedua adalah variabel dari deret, argumen ketiga adalah titik evaluasi deret dan argumen keempat adalah jumlah orde deret yang diinginkan.
+
+Contoh lainnya adalah ekspansi dari fungsi Bessel berikut di sekitar x = 0,
+
+<img width="311" alt="Screen Shot 2021-07-21 at 11 32 37" src="https://user-images.githubusercontent.com/87349156/126421439-e04130d1-dfb6-4ae9-b77d-7e331dba144e.png">
+
+Maka, input pada SymPy adalah sebagai berikut,
+
+
+
 
 
 
