@@ -156,6 +156,45 @@ Contoh lainnya adalah ekspansi dari fungsi Bessel berikut di sekitar x = 0,
 
 Maka, input pada SymPy adalah sebagai berikut,
 
+    f=besselj(0,x)/x
+    series(f,x,0,3)
+
+dengan output sebagai berikut,
+
+<img width="346" alt="Screen Shot 2021-07-21 at 11 34 26" src="https://user-images.githubusercontent.com/87349156/126421594-ceed7af4-1206-4a84-95f6-0740cd3bc85e.png">
+
+### Akar dari fungsi
+
+Akar dari suatu fungsi f(x) didefinisikan sebagai berikut,
+
+<img width="306" alt="Screen Shot 2021-07-21 at 11 35 38" src="https://user-images.githubusercontent.com/87349156/126421740-e6dc8b78-69d1-4d2f-b077-c756c6be04ec.png">
+
+di mana x_0 adalah akar dari fungsi f(x). Semisal kita ingin mencari akar dari fungsi kuadratik berikut
+
+<img width="317" alt="Screen Shot 2021-07-21 at 11 36 26" src="https://user-images.githubusercontent.com/87349156/126421834-4fae3672-2018-4bca-9756-c9d541ecfc66.png">
+
+Maka, input pada SymPy adalah sebagai berikut,
+
+    f=a*x**2+b*x+c
+    solve(f,x)
+    
+yang memberikan output sebagai berikut,
+
+<img width="411" alt="Screen Shot 2021-07-21 at 11 37 25" src="https://user-images.githubusercontent.com/87349156/126421912-56dec405-ceb5-48a6-bf5e-0973d330d357.png">
+
+Argumen pertama dari solve adalah fungsi yang akan dicari akarnya dan argumen kedua adalah variabel akar. Solve juga dapat digunakan untuk menyelesaikan suatu persamaan transendental seperti berikut,
+
+<img width="327" alt="Screen Shot 2021-07-21 at 11 37 52" src="https://user-images.githubusercontent.com/87349156/126421947-cc4183c3-9f91-478f-abdc-c4493516c915.png">
+
+Maka, solusi dari persamaan tersebut dapat dihitung menggunakan SymPy dengan input sebagai berikut,
+
+    f=cos(x)-sin(2x)
+    solve(f,x)
+    
+yang memberikan output untuk x sebagai berikut,
+
+<img width="341" alt="Screen Shot 2021-07-21 at 11 38 40" src="https://user-images.githubusercontent.com/87349156/126422038-575a63ba-2505-406b-8b52-f64b60acf1fa.png">
+
 
 
 
