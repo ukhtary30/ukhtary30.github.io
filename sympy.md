@@ -169,7 +169,7 @@ Akar dari suatu fungsi f(x) didefinisikan sebagai berikut,
 
 <img width="306" alt="Screen Shot 2021-07-21 at 11 35 38" src="https://user-images.githubusercontent.com/87349156/126421740-e6dc8b78-69d1-4d2f-b077-c756c6be04ec.png">
 
-di mana x_0 adalah akar dari fungsi f(x). Semisal kita ingin mencari akar dari fungsi kuadratik berikut
+di mana x<sub>0</sub> adalah akar dari fungsi f(x). Semisal kita ingin mencari akar dari fungsi kuadratik berikut
 
 <img width="317" alt="Screen Shot 2021-07-21 at 11 36 26" src="https://user-images.githubusercontent.com/87349156/126421834-4fae3672-2018-4bca-9756-c9d541ecfc66.png">
 
@@ -195,7 +195,51 @@ yang memberikan output untuk x sebagai berikut,
 
 <img width="341" alt="Screen Shot 2021-07-21 at 11 38 40" src="https://user-images.githubusercontent.com/87349156/126422038-575a63ba-2505-406b-8b52-f64b60acf1fa.png">
 
+### Matriks
 
+Matriks dapat ditulis pada SymPy sebagai berikut,
+
+    M = Matrix([[1,2],[3,4]])
+    M
+yang memberikan output matriks M sebagai berikut,
+
+<img width="307" alt="Screen Shot 2021-07-21 at 11 40 22" src="https://user-images.githubusercontent.com/87349156/126422160-2d0d4a1b-04e0-4b6e-b581-bf75e81ea480.png">
+
+Perkalian matriks dapat dilakukan seperti berikut,
+
+    M = Matrix([[1,2],[3,4]])
+    M*M
+    
+yang menghasilkan output berupa perkalian matriks M x M
+
+<img width="312" alt="Screen Shot 2021-07-21 at 11 41 18" src="https://user-images.githubusercontent.com/87349156/126422226-305749aa-cbc8-49d7-9680-7d9fe8011e15.png">
+
+Determinant dan inverse dari suatu matriks dapat dihitung dengan input sebagai berikut,
+
+    M = Matrix([[1,2],[3,4]])
+    M.det()
+    M.inv()
+    
+Baris kedua akan memberikan determinant dari matriks M, sedangkan baris ketiga memberikan inverse dari matriks M.
+Eigen value dan eigen vektor dari matriks M dapat dihitung dengan input sebagai berikut,
+
+    M = Matrix([[1,2],[3,4]])
+    M.eigenvects()
+   
+yang memberikan output sebagai berikut,
+
+  <img width="523" alt="Screen Shot 2021-07-21 at 11 42 46" src="https://user-images.githubusercontent.com/87349156/126422356-a1909ef0-7c61-4fda-908e-51aa7c16463e.png">
+  
+Ada dua eigen value dan eigen vektor dari matriks M. Kolom pertama dari masing-masing solusi adalah nilai eigenvalue, kolom kedua adalah multiplisitas dari eigen value dan kolom ketiga adalah eigen vektor. Terkhir, kita juga bisa mendiagonalisasi matriks M. Dalam kasus ini, kita menuliskan matriks M sebagai M=PDP<sup>-1</sup>, di mana $D$ adalah matriks yang sudah didiagonalisasi dan matriks P adalah matriks yang mendiagonalisasi matriks M. Matriks P dan D diperoleh melalui input SymPy sebagai berikut,
+
+    M = Matrix([[1,2],[3,4]])
+    M.diagonalize()
+
+dengan output sebagai berikut,
+
+<img width="458" alt="Screen Shot 2021-07-21 at 11 43 47" src="https://user-images.githubusercontent.com/87349156/126422428-18409490-1846-4eb9-9a93-1b8763651c17.png">
+
+Di mana matriks pada kolom pertama adalah matriks P dan matriks pada kolom kedua adalah matriks D. Dapat kita lihat bahwa matriks D hanya memiliki komponen diagonal yang tidak lain adalah eigen value dari matriks M.
 
 
 
