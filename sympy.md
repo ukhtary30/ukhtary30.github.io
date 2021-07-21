@@ -89,6 +89,52 @@ dengan output sebagai berikut,
 
 <img width="381" alt="Screen Shot 2021-07-21 at 11 22 49" src="https://user-images.githubusercontent.com/87349156/126420525-38fba59d-52e6-437f-b35a-8b885bceb380.png">
 
+### Integral
+
+Mari kita coba integralkan fungsi pada persamaan (8) sebagai berikut,
+
+<img width="382" alt="Screen Shot 2021-07-21 at 11 24 07" src="https://user-images.githubusercontent.com/87349156/126420639-aa6725af-f5ab-49ec-9be3-2f380309451f.png">
+
+Untuk menghitung intgral tanpa batas tersebut menggunakan SymPy, input pada SymPy adalah sebagai berikut,
+
+    f=10*x + 6*y*z + 3 * sin(3*x)
+    integrate(f,x)
+dengan output sebagai berikut,
+
+<img width="348" alt="Screen Shot 2021-07-21 at 11 25 01" src="https://user-images.githubusercontent.com/87349156/126420705-0bc11815-efdf-4379-be1a-65796940668e.png">
+
+Argumen pertama dari integrate adalah fungsi yang akan diintegralkan, sedangkan argumen kedua adalah variable integral. Bagaimana dengan integral yang memiliki batas seperti di bawah ini?
+
+<img width="397" alt="Screen Shot 2021-07-21 at 11 25 39" src="https://user-images.githubusercontent.com/87349156/126420752-a818cc12-8802-43c7-ac7b-53f403467fd2.png">
+
+Untuk menyelesaikan integral tersebut, input pada SymPy adalah sebagai berikut,
+
+    f=10*x + 6*y*z + 3 * sin(3*x)
+    integrate(f,(x,a,b))
+Contoh selanjutnya adalah intergral rangkap dua seperti di bawah ini,
+
+<img width="403" alt="Screen Shot 2021-07-21 at 11 26 39" src="https://user-images.githubusercontent.com/87349156/126420852-c38ff8cb-c1c1-444e-8a83-d3fb0f631825.png">
+
+Input pada SymPy adalah sebagai berikut.
+
+    f=10*x + 6*y*z + 3 * sin(3*x)
+    integrate(f,(x,a,b),(y,d,c))
+    
+Contoh terakhir adalah integral berikut yang merupakan definisi fungsi Gamma (Γ(y)),
+
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/87349156/126421009-8b86406c-8d9f-4195-8c69-c1507915cf57.png">
+
+Maka, input pada SymPy adalah,
+
+    f=x**(y-1)*exp(-x)
+    integrate(f,(x,0,oo))
+    
+yang menghasilkan output sebagai berikut,
+
+<img width="369" alt="image" src="https://user-images.githubusercontent.com/87349156/126421109-15a43dda-41a3-45d8-a8b9-e16293dbc497.png">
+
+
+
 
 
 
