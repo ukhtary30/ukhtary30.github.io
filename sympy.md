@@ -48,7 +48,7 @@ Semisal kita ingin menghitung limit dari fungsi berikut,
 
 <img width="528" alt="Screen Shot 2021-07-20 at 15 32 00" src="https://user-images.githubusercontent.com/87349156/126272804-30563d32-35b9-432d-809c-74d5282bba2d.png">
 
-Kita tahu bahwa jawaban dari persamaan (\ref{lim1}) adalah 1. Untuk menghitung persamaan (\ref{lim1}), kita menuliskan input SymPy sebagai berikut,
+Kita tahu bahwa jawaban dari persamaan (5}) adalah 1. Untuk menghitung persamaan (5), kita menuliskan input SymPy sebagai berikut,
 
     limit(sin(x)/x,x,0)
 yang memberi output 1. Secara umum, perintah limit terdiri atas tiga argumen. Argumen pertama adalah fungsi yang akan dihitung limitnya, argumen kedua adalah variable dari fungsi tersebut, sedangkan argumen ketiga adalah batas dari limit tersebut. Sebagai contoh lain, semisal kita ingin menghitung limit dari fungsi berikut,
@@ -59,6 +59,38 @@ Input pada SymPy adalah sebagai berikut,
 
     limit((3+4*x)/(5+6*x),x,oo)
     
-dengan output $2/3$. oo adalah input untuk $\infty$.
- 
+dengan output 2/3. oo adalah input untuk ∞.
+
+### Turunan
+
+Semisal kita ingin menghitung turunan fungsi sebagai berikut
+
+<img width="532" alt="Screen Shot 2021-07-21 at 11 19 25" src="https://user-images.githubusercontent.com/87349156/126420235-fc4c42b5-30aa-4bc1-834d-8a0af042281d.png">
+
+Maka input pada SymPy adalah sebagai berikut,
+
+    f=5*x**2-cos(3*x)+6*x*y*z
+    diff(f,x,1)
+    
+di mana kita mendefinisikan fungsi tersebut sebagai f. Perintah diff memiliki tiga argumen. Argumen pertama adalah fungsi yang akan diturunkan, argumen kedua adalah variabel fungsi yang diturunkan, dan argumen ketiga adalah orde dari turunan. Dalam contoh ini kita memilih orde 1, karena kita menghitung turunan pertama. Output dari input SymPy ini adalah,
+
+<img width="527" alt="Screen Shot 2021-07-21 at 11 20 40" src="https://user-images.githubusercontent.com/87349156/126420360-e95044ad-b5c2-457d-9dbd-086b32048721.png">
+
+Sebagai contoh lain, semisal kita ingin menghitung turunan dari fungsi Bessel berikut,
+
+<img width="318" alt="Screen Shot 2021-07-21 at 11 21 32" src="https://user-images.githubusercontent.com/87349156/126420437-e3959f74-d1d0-4de9-a261-c6543c581c65.png">
+
+y adalah orde dari fungsi Bessel. Maka input pada SymPy adalah sebagai berikut,
+
+    f=besselj(y,x)
+    diff(f,x,2)
+    
+dengan output sebagai berikut,
+
+<img width="381" alt="Screen Shot 2021-07-21 at 11 22 49" src="https://user-images.githubusercontent.com/87349156/126420525-38fba59d-52e6-437f-b35a-8b885bceb380.png">
+
+
+
+
+
  
