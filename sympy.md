@@ -24,6 +24,7 @@ di mana I adalah bilangan imajiner. Semisal kita ingin melakukan expansi aljabar
 input pada SymPy adalah,
 
     expand(x*(z+y)**2)
+    
 dengan output sebagai berikut,
 
 <img width="498" alt="Screen Shot 2021-07-20 at 15 26 13" src="https://user-images.githubusercontent.com/87349156/126272229-6bf2bb08-0ce0-443d-8470-30cba264b1a1.png">
@@ -32,6 +33,7 @@ Sebaliknya, bila kita ingin menyederhanakan suatu persamaan, semisal kita ingin 
 
     simplify(x*y**2+2*x*y*z + x*z*z)
     factor(x*y**2+2*x*y*z + x*z*z)
+    
 Baris 1 akan memberi output sebagai berikut,
 
 <img width="528" alt="Screen Shot 2021-07-20 at 15 28 08" src="https://user-images.githubusercontent.com/87349156/126272377-06538595-2e3b-441a-8d9f-ec22883879bd.png">
@@ -40,7 +42,7 @@ Sedangkan baris 2 akan memberi output,
 <img width="530" alt="Screen Shot 2021-07-20 at 15 29 45" src="https://user-images.githubusercontent.com/87349156/126272569-8e199229-a9e3-4e2c-989b-b9193da36028.png">
 
 Selanjutnya, kita akan mencoba bagaimana cara kita melakukan perhitungan simbolik yang lebih kompleks.
-
+---
 ## Limit, Turunan dan Integral
 ### Limit
 
@@ -51,6 +53,7 @@ Semisal kita ingin menghitung limit dari fungsi berikut,
 Kita tahu bahwa jawaban dari persamaan (5}) adalah 1. Untuk menghitung persamaan (5), kita menuliskan input SymPy sebagai berikut,
 
     limit(sin(x)/x,x,0)
+    
 yang memberi output 1. Secara umum, perintah limit terdiri atas tiga argumen. Argumen pertama adalah fungsi yang akan dihitung limitnya, argumen kedua adalah variable dari fungsi tersebut, sedangkan argumen ketiga adalah batas dari limit tersebut. Sebagai contoh lain, semisal kita ingin menghitung limit dari fungsi berikut,
 
 <img width="519" alt="Screen Shot 2021-07-20 at 15 33 25" src="https://user-images.githubusercontent.com/87349156/126272985-550ee95c-4b43-4d42-8f96-85a24578b057.png">
@@ -60,7 +63,7 @@ Input pada SymPy adalah sebagai berikut,
     limit((3+4*x)/(5+6*x),x,oo)
     
 dengan output 2/3. oo adalah input untuk ∞.
-
+---
 ### Turunan
 
 Semisal kita ingin menghitung turunan fungsi sebagai berikut
@@ -89,6 +92,8 @@ dengan output sebagai berikut,
 
 <img width="381" alt="Screen Shot 2021-07-21 at 11 22 49" src="https://user-images.githubusercontent.com/87349156/126420525-38fba59d-52e6-437f-b35a-8b885bceb380.png">
 
+---
+
 ### Integral
 
 Mari kita coba integralkan fungsi pada persamaan (8) sebagai berikut,
@@ -99,6 +104,7 @@ Untuk menghitung intgral tanpa batas tersebut menggunakan SymPy, input pada SymP
 
     f=10*x + 6*y*z + 3 * sin(3*x)
     integrate(f,x)
+    
 dengan output sebagai berikut,
 
 <img width="348" alt="Screen Shot 2021-07-21 at 11 25 01" src="https://user-images.githubusercontent.com/87349156/126420705-0bc11815-efdf-4379-be1a-65796940668e.png">
@@ -111,6 +117,7 @@ Untuk menyelesaikan integral tersebut, input pada SymPy adalah sebagai berikut,
 
     f=10*x + 6*y*z + 3 * sin(3*x)
     integrate(f,(x,a,b))
+    
 Contoh selanjutnya adalah intergral rangkap dua seperti di bawah ini,
 
 <img width="403" alt="Screen Shot 2021-07-21 at 11 26 39" src="https://user-images.githubusercontent.com/87349156/126420852-c38ff8cb-c1c1-444e-8a83-d3fb0f631825.png">
@@ -132,7 +139,7 @@ Maka, input pada SymPy adalah,
 yang menghasilkan output sebagai berikut,
 
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/87349156/126421109-15a43dda-41a3-45d8-a8b9-e16293dbc497.png">
-
+---
 ## Ekspansi fungsi, Akar dari fungsi, dan Matriks
 ### Ekspansi fungsi
 
@@ -144,6 +151,7 @@ dekat titik x = a, maka input pada SymPy adalah sebagai berikut,
 
     f=sin(x)
     series(f,x,a,3)
+    
 di mana kita melakukan ekspansi sampai tiga deret. Output dari perhitungan ini adalah,
 
 <img width="522" alt="Screen Shot 2021-07-21 at 11 31 49" src="https://user-images.githubusercontent.com/87349156/126421365-bd713608-3fbf-47f7-8870-2b973dac272c.png">
@@ -162,6 +170,8 @@ Maka, input pada SymPy adalah sebagai berikut,
 dengan output sebagai berikut,
 
 <img width="346" alt="Screen Shot 2021-07-21 at 11 34 26" src="https://user-images.githubusercontent.com/87349156/126421594-ceed7af4-1206-4a84-95f6-0740cd3bc85e.png">
+
+---
 
 ### Akar dari fungsi
 
@@ -194,6 +204,8 @@ Maka, solusi dari persamaan tersebut dapat dihitung menggunakan SymPy dengan inp
 yang memberikan output untuk x sebagai berikut,
 
 <img width="341" alt="Screen Shot 2021-07-21 at 11 38 40" src="https://user-images.githubusercontent.com/87349156/126422038-575a63ba-2505-406b-8b52-f64b60acf1fa.png">
+
+---
 
 ### Matriks
 
@@ -241,6 +253,8 @@ dengan output sebagai berikut,
 
 Di mana matriks pada kolom pertama adalah matriks P dan matriks pada kolom kedua adalah matriks D. Dapat kita lihat bahwa matriks D hanya memiliki komponen diagonal yang tidak lain adalah eigen value dari matriks M.
 
+---
+
 ## Nilai numerik dari ekspresi analitik
 
 Sejauh ini, kita hanya mengevaluasi ekspresi analitik dari suatu perhitungan. Semisal kita ingin mengevaluasi nilai numerik dari perhitungan berikut,
@@ -251,6 +265,7 @@ Untuk mengevaluasi nilai numerik dari fungsi f(x) pada x = 0.1, input pada SymPy
 
     f=lambdify(x,diff(x**3*exp(-5*x),x,2))
     f(0.1)
+    
 Pada baris pertama, kita menggunakan perintah lambdify agar dapat mengevaluasi secara numerik dari suatu fungsi. Argumen pertama pada lambdify adalah variabel fungsi yang akan dievaluasi, sedangkan argumen kedua adalah fungsi yang akan dievaluasi. Baris kedua akan memberikan nilai numerik dari fungsi untuk x = 0.1. Input SymPy di atas akan memberikan output berupa nilai numerik sebagai berikut,
 
 <img width="355" alt="Screen Shot 2021-07-21 at 11 47 22" src="https://user-images.githubusercontent.com/87349156/126422711-3d058c81-a7eb-4715-b7ad-d75b64ef802c.png">
