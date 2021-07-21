@@ -22,6 +22,11 @@ This page contains my publication list. Below, I give some of my main publicatio
 
 Pada Halaman ini: [Cerita Riset](https://ukhtary30.github.io/cerita.html), saya bercerita mengenai paper yang telah saya publikasikan. 
 
+### [Tutorial](https://ukhtary30.github.io/tutorial.html)
+In this page: [Tutorial](https://ukhtary30.github.io/tutorial.html), I give some tutorial on physics.
+
+Pada Halaman ini: [Tutorial](https://ukhtary30.github.io/tutorial.html), saya memberikan beberapa tutorial seperti tutorial penggunaan Python, diskusi penurunan suatu formula dan lain-lain. 
+
 ### Contact
 Berikut adalah kontak saya:
 
