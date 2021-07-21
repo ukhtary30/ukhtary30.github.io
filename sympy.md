@@ -241,8 +241,34 @@ dengan output sebagai berikut,
 
 Di mana matriks pada kolom pertama adalah matriks P dan matriks pada kolom kedua adalah matriks D. Dapat kita lihat bahwa matriks D hanya memiliki komponen diagonal yang tidak lain adalah eigen value dari matriks M.
 
+## Nilai numerik dari ekspresi analitik
 
+Sejauh ini, kita hanya mengevaluasi ekspresi analitik dari suatu perhitungan. Semisal kita ingin mengevaluasi nilai numerik dari perhitungan berikut,
 
+<img width="344" alt="Screen Shot 2021-07-21 at 11 45 55" src="https://user-images.githubusercontent.com/87349156/126422619-641367ad-c953-46a1-beee-1e6e151b13ea.png">
+
+Untuk mengevaluasi nilai numerik dari fungsi f(x) pada x = 0.1, input pada SymPy adalah,
+
+    f=lambdify(x,diff(x**3*exp(-5*x),x,2))
+    f(0.1)
+Pada baris pertama, kita menggunakan perintah lambdify agar dapat mengevaluasi secara numerik dari suatu fungsi. Argumen pertama pada lambdify adalah variabel fungsi yang akan dievaluasi, sedangkan argumen kedua adalah fungsi yang akan dievaluasi. Baris kedua akan memberikan nilai numerik dari fungsi untuk x = 0.1. Input SymPy di atas akan memberikan output berupa nilai numerik sebagai berikut,
+
+<img width="355" alt="Screen Shot 2021-07-21 at 11 47 22" src="https://user-images.githubusercontent.com/87349156/126422711-3d058c81-a7eb-4715-b7ad-d75b64ef802c.png">
+
+Dengan menggunakan perintah lambdify, kita dapat membuat plot dari ekspresi analitik yang kita peroleh dari SymPy. Input untuk membuat plot adalah sebagai berikut,
+
+    import numpy as np
+    import matplotlib.pyplot as plt
+    f=lambdify(x,diff(x**3*exp(-5*x),x,2))
+    xx = np.linspace(0,5,500)
+    yy = f(xx)
+    plt.plot( xx,yy)
+    plt.tick_params( labelsize  = 18 )
+    plt.ylabel('f(x)',size  = 18)
+    plt.xlabel('x',size  = 18)
+    plt.show()
+    
+Output dari input di atas adalah berupa plot dari f(x).
 
 
 
