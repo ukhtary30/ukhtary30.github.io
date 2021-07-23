@@ -295,7 +295,7 @@ Dengan menggunakan perintah lambdify, kita dapat membuat plot dari ekspresi anal
 Output dari input di atas adalah berupa plot dari f(x).
 
 
-![Figure_1](https://user-images.githubusercontent.com/87349156/126729559-c1c117e6-9872-4cea-84fd-70ffbf16ce79.png | width=100)
+![Figure_1](https://user-images.githubusercontent.com/87349156/126729559-c1c117e6-9872-4cea-84fd-70ffbf16ce79.png )
 
 
  
