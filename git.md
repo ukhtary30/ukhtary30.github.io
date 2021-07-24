@@ -40,6 +40,8 @@ Terakhir, kita mengunggah file tersebut dengan perintah
 
     git push origin (branch repositori, atau bila tidak ada branch, isikan dengan main)
     
-## Mengunbduh perubahan yang dilakukan langsung di Github
+## Mengunduh perubahan yang dilakukan langsung di Github
+
+Bila perubahan dilakukan langsung di web Github, dan kita ingin menunduh ke komputer lokal kita, maka perintah yang diketikan adalah 
 
 
