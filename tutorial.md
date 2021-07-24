@@ -1,3 +1,6 @@
+
+<a href="https://ukhtary30.github.io"><img align="right" width="50" height="50" src="figures/home.png"></a>
+
 # Tutorial
 
 1.  [Tutorial penggunaan Symbolic Python (SymPy)](https://ukhtary30.github.io/sympy.html)
