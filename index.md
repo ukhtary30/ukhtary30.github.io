@@ -27,8 +27,11 @@ In this page: [Tutorial](https://ukhtary30.github.io/tutorial.html), I give some
 
 Pada Halaman ini: [Tutorial](https://ukhtary30.github.io/tutorial.html), saya memberikan beberapa tutorial seperti tutorial penggunaan Python, diskusi penurunan suatu formula dan lain-lain. 
 
-### Short Profile & CV
+### [Short Profile & CV](https://ukhtary30.github.io/profile.html)
 
+Please visit this page: [Profile](https://ukhtary30.github.io/profile.html) for my short profile and CV
+
+Silahkan kunjungi halaman ini: [Profile](https://ukhtary30.github.io/profile.html) untuk data diri dan CV saya.
 
 ### Contact
 Berikut adalah kontak saya:
