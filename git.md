@@ -44,4 +44,7 @@ Terakhir, kita mengunggah file tersebut dengan perintah
 
 Bila perubahan dilakukan langsung di web Github, dan kita ingin menunduh ke komputer lokal kita, maka perintah yang diketikan adalah 
 
+    git pull
+    
+ 
 
