@@ -1,3 +1,6 @@
+
+<a href="https://ukhtary30.github.io"><img align="right" width="50" height="50" src="figures/home.png"></a>
+
 # Tutorial penggunaan Github secara remote
 
 Berikut saya berikan beberapa kode untuk mengupdate Github secara remote melalui Git. Halaman ini saya buat sebagai pengingat untuk saya pribadi, karena sering lupa :flushed:
