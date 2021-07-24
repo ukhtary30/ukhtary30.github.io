@@ -1,3 +1,6 @@
+
+<a href="https://ukhtary30.github.io"><img align="right" width="50" height="50" src="figures/home.png"></a>
+
 ### Bagaimana cara meningkatkan serapan cahaya oleh graphene?
 
 Pada halaman ini, saya bercerita mengenai paper yang telah saya publikasikan. 
