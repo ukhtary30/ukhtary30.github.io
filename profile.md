@@ -40,8 +40,6 @@ Date of Graduation: 2013/09.
 
 ## Research/Employment History
 
-If your main work has been done at RIKEN, please indicate this.
-
 1.	(2021/01 -) Junior Researcher in Research Center of Physics, Indonesian Institute of Science (LIPI), Indonesia.
 
 2.	(2019/10 – 2021/09) Assistant Professor in Department of Physics, Tohoku University.
