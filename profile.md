@@ -1,5 +1,8 @@
 # Profile
 
+
+<img align="right" width="100" height="100" src="figures/foto.jpg">
+
 Name: M Shoufie Ukhtary
 
 Date of Birth: 16 January 1992
