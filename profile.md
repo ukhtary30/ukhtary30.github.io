@@ -45,3 +45,24 @@ Date of Graduation: 2013/09.
 2.	(2019/10 – 2021/09) Assistant Professor in Department of Physics, Tohoku University.
 
 3.	(2018/04 – 2019/09) Japan Society for the Promotion of Science (JSPS) DC2 and PD Fellows in Department of Physics, Tohoku University. 
+
+---
+
+## Fellowships / Awards
+
+1.	(2018/04 – 2019/09) Japan Society for the Promotion of Science (JSPS) DC2 and PD Fellows in Department of Physics, Tohoku University. 
+
+2.	(2018/03) Aoba Shinkoukai Award awarded by Faculty of Science, Tohoku University.
+
+3.	(2017/09) Outstanding Paper Award awarded by the Japan Society of Applied Physics (JSAP) in Fukuoka, Japan.
+
+---
+
+## Other activities
+
+1.	(2016/04, 2017/04) Teaching Assistant: 電磁気学II演習 in Department of Physics, Tohoku University. 
+
+2.	(2016/10, 2017/10) Teaching Assistant: 統計物理学II演習in Department of Physics, Tohoku University. 
+
+---
+
