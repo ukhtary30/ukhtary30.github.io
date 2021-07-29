@@ -72,16 +72,13 @@ Matriks matrix_power(J2,s-1) berkaitan dengan penjalaran cahaya melalui medium A
 
 ### Output program
 
+Input dari program ini adalah jumlah repetisi s dan juga nilai indeks bias medium B. Output dari program ini adalah besarnya probabilitas serapan cahaya dan besar medan listrik pada graphene sebagai fungsi rasio antara indeks bias medium A dan B (α) untuk beberapa s. 
 
-By inputting the number of repetition and the value of the refractive index of medium B, the absorption and electric field on graphene are calculated as a function of α.
-
-The code, 
+Kode di bawah ini memberikan input dari indeks bias medium B, 
 
     nb   = 1.5 # the refractive index of B medium
 
-gives the input for the refractive index of medium B.
-
-The following code gives the input for the umber of repetitions that will be calculated.
+Kode di bawah ini memberikan input dari jumlah repetisi s yang akan digunakan dalam perhitungan.
 
     ##########################################
     # The input for the number of repetitions that will be calculated.
@@ -92,7 +89,7 @@ The following code gives the input for the umber of repetitions that will be cal
 
     ##########################################
   
- The outputs are plotted by the following code,
+Output dari program ini divisualisasikan dalam bentuk grafik dengan kode di bawah ini.
  
 ```
 nd = 100 # number of data
