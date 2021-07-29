@@ -1,4 +1,4 @@
-# Metode Transfer Matrix method untuk struktur mirror
+# Metode Transfer Matrix method untuk mirror structure
 
 Berikut adalah penjelasan mengenai program yang saya gunakan dalam paper saya: [Significant enhancement of light absorption in undoped graphene using dielectric multilayer system](http://aip.scitation.org/doi/abs/10.1063/1.5012604) , S. A. Nulli, **M. S. Ukhtary**, R. Saito, Appl. Phys. Lett. 112, 073101 (2018). Ringkasan mengenai paper ini ada pada halaman berikut: [Cerita Riset](https://ukhtary30.github.io/significant.html). Kode program dapat ditemukan pada repositori Github: https://github.com/ukhtary30/transfer-matrix.git
 
@@ -51,12 +51,7 @@ Di paper ini, ketebalan tiap medium (d<sub>i</sub>) adalah seperempat panjang ge
 
 ---
 
-T
-Tr
-Tra
-Tran
-
-The transfer matrix of the mirror geometry with s repetition is given by the following code,
+Transfer matriks dari mirror structure dengan jumlah repetisi s di berikan oleh kode di bawah ini,
 
     def TF(x,s): # x is the alpha and s is the repetition
     na = x * nb
@@ -69,7 +64,7 @@ The transfer matrix of the mirror geometry with s repetition is given by the fol
     JT = J1 @ matrix_power(J2,s-1) @ MG(nb,nb,sig) @ matrix_power(J3,s-1) @ J4
     return JT
     
-The matrix J1 corresponds to the propagation of light when entering the mirror geometry from air to medium A and B (air --> AB). Similarly, matrix J4 corresponds to the  propagation of light leaving the geometry from medium B and to air (BA -->  air). It is noted that the command @ generates the matrix multiplication.
+Matrik J1 berkaitan dengan penjalaran cahaya ketika memasuki struktur dari udara ke medium A dan B (udara --> AB). Sebaliknya, matriks J4 berkaitan dengan penjalaran cahaya meninggalkan struktur dari medium BA ke udara (BA --> udara). Perlu diperhatikan bahwa kode @ memberikan perkalian matriks.
 
 Matrix matrix_power(J2,s-1) corresponds to the propagation of light through repeated medium AB before reaching the graphene. On the other hand, matrix matrix_power(J3,s-1) corresponds to the propagation of light through repeated medium BA after reaching the graphene. The command matrix_power(J2,s-1) generates the power of matrix J2 with order of s-1. 
 
