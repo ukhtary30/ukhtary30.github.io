@@ -1,7 +1,7 @@
+# Cerita Riset
 
 <a href="https://ukhtary30.github.io"><img align="right" width="50" height="50" src="figures/home.png"></a>
 
-# Cerita Riset
 
 Pada halaman ini, saya bercerita mengenai paper yang telah saya publikasikan atau paper lain yang menarik. Silahkan tekan link pada judul paper di bawah.
 
