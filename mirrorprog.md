@@ -64,13 +64,14 @@ Transfer matriks dari mirror structure dengan jumlah repetisi s di berikan oleh 
     JT = J1 @ matrix_power(J2,s-1) @ MG(nb,nb,sig) @ matrix_power(J3,s-1) @ J4
     return JT
     
-Matrik J1 berkaitan dengan penjalaran cahaya ketika memasuki struktur dari udara ke medium A dan B (udara --> AB). Sebaliknya, matriks J4 berkaitan dengan penjalaran cahaya meninggalkan struktur dari medium BA ke udara (BA --> udara). Perlu diperhatikan bahwa kode @ memberikan perkalian matriks.
+Matriks J1 berkaitan dengan penjalaran cahaya ketika memasuki struktur dari udara ke medium A dan B (udara --> AB). Sebaliknya, matriks J4 berkaitan dengan penjalaran cahaya meninggalkan struktur dari medium BA ke udara (BA --> udara). Perlu diperhatikan bahwa kode @ memberikan perkalian matriks.
 
-Matrix matrix_power(J2,s-1) corresponds to the propagation of light through repeated medium AB before reaching the graphene. On the other hand, matrix matrix_power(J3,s-1) corresponds to the propagation of light through repeated medium BA after reaching the graphene. The command matrix_power(J2,s-1) generates the power of matrix J2 with order of s-1. 
+Matriks matrix_power(J2,s-1) berkaitan dengan penjalaran cahaya melalui medium AB yang berulang sebelum mencapai graphene yang berada di tengah struktur. Sebaliknya matriks matrix_power(J3,s-1) berkaitan dengan penjalaran cahaya melalui medium BA yang berulang sesudah melewati graphene. Kode matrix_power(J2,s-1) memberikan bentuk pangkat dari matriks J2 dengan orde s-1.
 
 ---
 
-### The output of the code
+### Output program
+
 
 By inputting the number of repetition and the value of the refractive index of medium B, the absorption and electric field on graphene are calculated as a function of α.
 
