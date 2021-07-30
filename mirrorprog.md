@@ -138,5 +138,12 @@ plt.ylim([0,5])
 plt.legend()
 plt.show()
 ```
-     
+
+Berikut adalah grafik serapan cahaya dan besar medan listrik pada graphene sebagai fungsi α untuk beberapa repetisi s
+
+![Unknown-39](https://user-images.githubusercontent.com/87349156/127585093-c0318cc8-e3b5-4833-a355-4c94bd0cf0ea.png)
+
+![Unknown-40](https://user-images.githubusercontent.com/87349156/127585100-016b0a44-548b-4d22-b3bb-1199c36b238b.png)
+
+
 
