@@ -186,7 +186,7 @@ plt.show()
 ```
 dengan output (Grafik 3c di paper),
 
-![alphamax](https://user-images.githubusercontent.com/87349156/127600506-86e3d568-be24-45df-8abb-ef6485e430f0.png)
+![alphamax](https://user-images.githubusercontent.com/87349156/127600588-ad81bf6c-dc1c-4f73-9cf9-3715cec77f17.png)
 
 
 
