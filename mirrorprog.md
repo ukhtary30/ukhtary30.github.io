@@ -138,11 +138,55 @@ plt.legend()
 plt.show()
 ```
 
-Berikut adalah grafik serapan cahaya dan besar medan listrik pada graphene sebagai fungsi α untuk beberapa repetisi s
+Berikut adalah grafik serapan cahaya dan besar medan listrik pada graphene sebagai fungsi α untuk beberapa repetisi s (Grafik 3a dan b di paper)
 
 ![Unknown-39](https://user-images.githubusercontent.com/87349156/127585093-c0318cc8-e3b5-4833-a355-4c94bd0cf0ea.png)
 
 ![Unknown-40](https://user-images.githubusercontent.com/87349156/127585100-016b0a44-548b-4d22-b3bb-1199c36b238b.png)
+
+---
+
+Penurunan formula analitis dari serapan cahaya dan medan listrik diberikan di supplemental material paper. Formula analitis dari α yang memberikan serapan maksimum dapat diperoleh dengan melakukan turunan dari formula analitis serapan cahata. Turunan dapat diperoleh menggunakan kode SymPy sebagai berikut,
+
+```
+#################################################
+
+# The derivation of the analytical results is given in the supplemental material of the paper. Here we will plot the value of alpha that gives the maximum absorption as a function of s
+
+
+# Let us use sympy
+
+import sympy
+sympy.init_session()
+s, al, Z0, sigm = symbols("s alpha Z0 sigma")
+
+A = 4 * al**(2*s)* Z0 * sigm / (2 + al**(2*s) *Z0 * sigm)**2 # the analytical formula for Absorption
+B = diff(A,al) # derivative of A
+amax = solve(B,al)[0] # the analytical solution of alpha that gives maximum absorption
+
+```
+Formula analitis dari alpha diberikan oleh kode amax di atas, yang memberikan,
+
+<img width="137" alt="Screen Shot 2021-07-30 at 13 23 11" src="https://user-images.githubusercontent.com/87349156/127599902-d362cbcf-ee9d-4041-9639-39e91d79c1f5.png">
+
+Grafik dari alpha sebagai fungsi s diberikan oleh kode di bawah ini,
+
+```
+##### Ploting the amax
+f=lambdify(s,amax.subs([(Z0,377),(sigm,sig)]))
+xx = np.linspace(2,12,100)
+yy = f(xx)
+plt.plot( xx,yy)
+plt.tick_params( labelsize  = 18 )
+plt.ylabel('$α_{max}$',size  = 18)
+plt.xlabel('s',size  = 18)
+plt.xlim([2,12])
+plt.ylim([1,3.5])
+plt.show()
+```
+dengan output (Grafik 3c di paper),
+
+![alphamax](https://user-images.githubusercontent.com/87349156/127600506-86e3d568-be24-45df-8abb-ef6485e430f0.png)
 
 
 
