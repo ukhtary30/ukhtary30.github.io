@@ -1,6 +1,6 @@
 <a href="https://ukhtary30.github.io"><img align="right" width="50" height="50" src="figures/home.png"></a>
 
-# Metode Transfer Matrix method untuk mirror structure
+# Metode transfer matrix untuk mirror structure
 
 Berikut adalah penjelasan mengenai program yang saya gunakan dalam paper saya: [Significant enhancement of light absorption in undoped graphene using dielectric multilayer system](http://aip.scitation.org/doi/abs/10.1063/1.5012604) , S. A. Nulli, **M. S. Ukhtary**, R. Saito, Appl. Phys. Lett. 112, 073101 (2018). Ringkasan mengenai paper ini ada pada halaman berikut: [Cerita Riset](https://ukhtary30.github.io/significant.html). Kode program dapat ditemukan pada repositori Github: https://github.com/ukhtary30/transfer-matrix.git
 
@@ -8,8 +8,7 @@ Berikut adalah penjelasan mengenai program yang saya gunakan dalam paper saya: [
 
 ### Penjelasan bagian - bagian kode
 
-Bagian utama dari program ini adalah bagian perhitungan probabilitas serapan cahaya dan besar medan listrik menggunakan metode transfer matrix, yang merupakan perkalian antara matriks matching dan propagasi.
-
+Bagian utama dari program ini adalah bagian perhitungan probabilitas serapan cahaya dan besar medan listrik menggunakan metode transfer matrix, yang merupakan perkalian antara matriks matching dan propagasi. Penjelasan mengenai kedua matriks tersebut dapat dibaca di rangkuman paper ini pada halaman [Cerita Riset](https://ukhtary30.github.io/significant.html)
 
 Matriks matching antara medium n<sub>i+1</sub> and n<sub>i</sub> diberikan oleh kode di bawah ini,
 
@@ -18,7 +17,7 @@ Matriks matching antara medium n<sub>i+1</sub> and n<sub>i</sub> diberikan oleh 
     B = 1 - x / y
     return 0.5 * np.array([[A,B],[B,A]])
 
-yang memberikan mtriks matching M<sub>i</sub>,
+yang memberikan matriks matching M<sub>i</sub>,
 
 <img width="360" alt="Screen Shot 2021-07-27 at 9 55 36" src="https://user-images.githubusercontent.com/87349156/127078053-95a2074f-e276-4b88-8ea1-ccfe5e9ce04b.png">
 
