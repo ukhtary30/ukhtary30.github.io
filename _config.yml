@@ -6,3 +6,5 @@ title: Blogging Like a Hacker
 ---
 
 document.getElementById("p1").innerHTML = "New text!";
+
+google_analytics: G-TK8W2DG07J
