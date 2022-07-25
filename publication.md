@@ -13,8 +13,7 @@ Here are some papers I have written so far.
 
 ### Year 2022
 
-26\.  [Switching performance of optically generated spin current at the graphene edge]
-(https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.045420), Y. Tian,**M. S. Ukhtary**, R. Saito, Phys. Rev. B, 106, 045420, (2022).
+26\.  [Switching performance of optically generated spin current at the graphene edge](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.045420), Y. Tian,**M. S. Ukhtary**, R. Saito, Phys. Rev. B, 106, 045420, (2022).
 
 ---
 
