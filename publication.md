@@ -7,7 +7,10 @@
 
 
 Here are some papers I have written so far.
+### Year 2023
+29\.  [High-performance Kerr quantum battery](https://pubs.aip.org/aip/apl/article-abstract/123/3/034001/2902897/High-performance-Kerr-quantum-battery?redirectedFrom=fulltext), **M. S. Ukhtary**, A. R. T.  Nugraha, A. B. Cahaya, A. Rusydi, M. A.  Majidi, Appl. Phys. Lett. 123, 034001 (2023).
 
+28\.  [Trigonal warping effects on optical properties of anomalous Hall materials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.155415), Jyesta M. Adhidewata, Ravanny W. M. Komalig, **M. S. Ukhtary**, Ahmad R. T. Nugraha, Bobby E. Gunara, and Eddwi H. Hasdeo, Phys. Rev. B 107, 155415 (2023).
 
 ---
 
