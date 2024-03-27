@@ -8,6 +8,8 @@
 
 Here are some papers I have written so far.
 ### Year 2024
+33\.  [Energetics of a pulsed quantum battery](https://iopscience.iop.org/article/10.1209/0295-5075/ad2e79), C. A. Downing and **M. S. Ukhtary**, EPL 146 10001 (2024).
+
 32\.  [Coherent perfect absorption of light by undoped graphene monolayer](https://iopscience.iop.org/article/10.1088/1361-6463/ad32ab/pdf), **M. S. Ukhtary**, J. Phys. D: Appl. Phys. 57 255301 (2024).
 
 31\.  [Tunable optical absorption in undoped graphene sandwiched between multilayer dielectric stacks with mirror symmetry](https://iopscience.iop.org/article/10.1088/1402-4896/ad23b1/meta), F. Kengo, S. Solihin, **M. S. Ukhtary**, J. Suwardy, M. A. Majidi, and A. R. T. Nugraha, Phys. Scr. 99, 035513 (2024).
