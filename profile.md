@@ -7,7 +7,7 @@
 
 Name: M Shoufie Ukhtary
 
-Date of Birth: 16 January 1992
+Year of Birth:  1992
 
 ## Education
 
@@ -45,11 +45,12 @@ Date of Graduation: 2013/09.
 
 ## Research/Employment History
 
-1.	(2021/01 -) Junior Researcher in Research Center of Physics, Indonesian Institute of Science (LIPI), Indonesia.
+1.  (2022/07 – 2024/06) Postdoctoral Researcher in University of Exeter, United Kingdom.
+2.	(2021/10 - Now) Junior Researcher (Peneliti Ahli Muda) in the Research Center of Quantum Physics, National Research and Innovation Agency of Indonesia (BRIN), Indonesia.
 
-2.	(2019/10 – 2021/09) Assistant Professor in Department of Physics, Tohoku University.
+3.	(2019/10 – 2021/09) Assistant Professor in Department of Physics, Tohoku University.
 
-3.	(2018/04 – 2019/09) Japan Society for the Promotion of Science (JSPS) DC2 and PD Fellows in Department of Physics, Tohoku University. 
+4.	(2018/04 – 2019/09) Japan Society for the Promotion of Science (JSPS) DC2 and PD Fellows in Department of Physics, Tohoku University. 
 
 ---
 
