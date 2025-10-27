@@ -8,6 +8,11 @@
 
 Here are some papers I have written so far.
 ### Year 2025
+38\.  [Energy storage in a continuous-variable quantum battery with nonlinear coupling](https://journals.aps.org/pre/abstract/10.1103/73zl-yn4h), C. A. Downing and **M. S. Ukhtary** , Phys. Rev. E 112, 044143 (2025).
+
+
+38\.  [Transient dynamics of the quantum Stuart-Landau oscillator](https://journals.aps.org/pra/abstract/10.1103/vtt6-qr94), H. M. Lim, D. Dwiputra, **M. S. Ukhtary**, A. R. T.  Nugraha , Phys. Rev. A 112, 043720 (2025).
+
 37\.  [Optical anisotropy in laterally aligned W6Te6 nanowire bundles](https://pubs.aip.org/aip/apl/article-abstract/127/15/151907/3368340/Optical-anisotropy-in-laterally-aligned-W6Te6?redirectedFrom=fulltext), Ryusuke Natsui, Nguyen Tuan Hung, Desman Perdamaian Gulo,Keana Rylie Pasoquen,**M. S. Ukhtary**, Hsiang-Lin Liu,Riichiro Saito and Yasumitsu Miyata , Applied Physics Letters, 127, 151907 (2025).
 
 36\.  [Tunable qubit quantum battery with delta-pulse driving](https://pubs.aip.org/aip/apl/article-abstract/126/3/034002/3332113/Tunable-qubit-quantum-battery-with-delta-pulse?redirectedFrom=fulltext), **M. S. Ukhtary** and Choirun Nisaa Rangkuti, Applied Physics Letters, 126, 034002 (2025).
