@@ -7,6 +7,12 @@
 
 
 Here are some papers I have written so far.
+### Year 2026
+38\.  [Charging a quantum battery from the Bloch Sphere](https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202500638), C. A. Downing and **M. S. Ukhtary** , Annalen der Physik, e00638 (2026).
+
+
+38\.  [Radial stabilization of magnetic Skyrmions under strong external magnetic field](https://iopscience.iop.org/article/10.1088/1402-4896/ae32be/meta), E. S. Fadhilla, **M. S. Ukhtary**, A. N. Atmaja and B. E. Gunara , Physica Scripta, Volume 101, Number 2 (2026).
+
 ### Year 2025
 38\.  [Energy storage in a continuous-variable quantum battery with nonlinear coupling](https://journals.aps.org/pre/abstract/10.1103/73zl-yn4h), C. A. Downing and **M. S. Ukhtary** , Phys. Rev. E 112, 044143 (2025).
 
