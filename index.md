@@ -8,7 +8,7 @@ I am Muhammad Shoufie Ukhtary, but you can call me Shoufie. I come from Malang, 
 
 Halaman ini: [Publication list](https://ukhtary30.github.io/publication.html) berisi daftar paper yang sudah saya tulis dan dipublikasi. Berikut beberapa paper utama saya.
 
-This page contains my publication list. Below, I give some of my main publications.
+This page contains my publication list:[Publication list](https://ukhtary30.github.io/publication.html) . Below, I give some of my main publications.
 
 1. [Fermi energy-dependence of electromagnetic wave absorption in graphene](http://dx.doi.org/10.7567/APEX.8.055102), **M. S. Ukhtary**, E. H. Hasdeo, A. R. T. Nugraha, R. Saito, Appl. Phys. Express 8, 055102 (2015).
 2. [Hidden symmetries in N-layer dielectric stacks](https://doi.org/10.1088/1361-648X/aa865c), H. Liu, **M. S. Ukhtary**, R. Saito, J. Phys. Condens. Matter , 29, 455303 (2017).
