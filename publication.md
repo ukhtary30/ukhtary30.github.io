@@ -8,13 +8,19 @@
 
 Here are some papers I have written so far.
 ### Year 2026
-40\.  [Charging a quantum battery from the Bloch Sphere](https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202500638), C. A. Downing and **M. S. Ukhtary** , Annalen der Physik, e00638 (2026).
+
+43\.  [Optimal Performance of a Three-Level Quantum Battery under External Drivings](https://iopscience.iop.org/article/10.1088/1402-4896/ae67bd/meta), Javas Nurzaky Azalli, Muhammad Imron Rosyady, Vera Khoirunisa, Listra Yehezkiel Ginting, and **M. S. Ukhtary**, Phys. Scr. 101, 205103 (2026).
 
 
-39\.  [Radial stabilization of magnetic Skyrmions under strong external magnetic field](https://iopscience.iop.org/article/10.1088/1402-4896/ae32be/meta), E. S. Fadhilla, **M. S. Ukhtary**, A. N. Atmaja and B. E. Gunara , Physica Scripta, 101, 025913 (2026).
+42\.  [Optical control of skyrmion trajectories via skyrmion number currents](https://journals.aps.org/prb/abstract/10.1103/rmcr-l765), Emir Syahreza Fadhilla, **M. S. Ukhtary**, Ardian Nata Atmaja, and Bobby Eka Gunara, Phys. Rev. B 113, 054418 (2026).
+
+41\.  [Charging a quantum battery from the Bloch Sphere](https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202500638), C. A. Downing and **M. S. Ukhtary** , Annalen der Physik, e00638 (2026).
+
+
+40\.  [Radial stabilization of magnetic Skyrmions under strong external magnetic field](https://iopscience.iop.org/article/10.1088/1402-4896/ae32be/meta), E. S. Fadhilla, **M. S. Ukhtary**, A. N. Atmaja and B. E. Gunara , Physica Scripta, 101, 025913 (2026).
 
 ### Year 2025
-38\.  [Energy storage in a continuous-variable quantum battery with nonlinear coupling](https://journals.aps.org/pre/abstract/10.1103/73zl-yn4h), C. A. Downing and **M. S. Ukhtary** , Phys. Rev. E 112, 044143 (2025).
+39\.  [Energy storage in a continuous-variable quantum battery with nonlinear coupling](https://journals.aps.org/pre/abstract/10.1103/73zl-yn4h), C. A. Downing and **M. S. Ukhtary** , Phys. Rev. E 112, 044143 (2025).
 
 
 38\.  [Transient dynamics of the quantum Stuart-Landau oscillator](https://journals.aps.org/pra/abstract/10.1103/vtt6-qr94), H. M. Lim, D. Dwiputra, **M. S. Ukhtary**, A. R. T.  Nugraha , Phys. Rev. A 112, 043720 (2025).
